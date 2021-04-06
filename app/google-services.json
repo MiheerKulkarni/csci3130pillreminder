@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1057278734449",
+    "firebase_url": "https://my-meds-c2b24.firebaseio.com",
+    "project_id": "my-meds-c2b24",
+    "storage_bucket": "my-meds-c2b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057278734449:android:4b5f4250c71433c9",
+        "android_client_info": {
+          "package_name": "com.validator.mymeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057278734449-h8ngruijtrvma8ub2b2jp43pe98c1ngu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.validator.mymeds",
+            "certificate_hash": "9e4d397134a2d42a2ac5a2da9f38fd411d635f35"
+          }
+        },
+        {
+          "client_id": "1057278734449-2c82s4frh7lci4o2u8e9mgur95nv0bn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMW8IHYC-yHrAqpqOOLCQE42ME18iUYw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057278734449-2c82s4frh7lci4o2u8e9mgur95nv0bn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

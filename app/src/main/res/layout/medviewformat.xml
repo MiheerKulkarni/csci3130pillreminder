@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="50dp"
+    android:paddingBottom="5dp"
+    android:weightSum="10">
+
+
+    <LinearLayout
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="9"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/medviewname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/medviewdosage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/medviewdosagetime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="end">
+
+        <Button
+            android:id="@+id/notesButton"
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:text="Add Notes"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/dosageAmountButton"
+            android:layout_width="87dp"
+            android:layout_height="64dp"
+            android:text="Update Remaining Doses"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/medTaken"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Med Taken"
+            android:textSize="10sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

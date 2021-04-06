@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Meds</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="dosage_amount">Dosage Amount</string>
+    <string name="dosage_time">Dosage Time</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="dose_remain">Remaining Doses</string>
+    <string name="description">Description</string>
+    <string name="notes">Notes</string>
+
+
+</resources>
